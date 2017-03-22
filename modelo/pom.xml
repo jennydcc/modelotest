@@ -4,7 +4,7 @@
 
   <groupId>pe.grupobbva.modelo</groupId>
   <artifactId>modelo</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>modelo web</name>
@@ -24,9 +24,9 @@
   </dependencies>
   
   <scm>
-    <connection>scm:git:git@github.com:jennydcc/modelotest.git</connection>
-    <developerConnection>scm:git:https://${username}:${password}@github.com:jennydcc/modelotest.git</developerConnection>
-    <url>scm:git:git@github.com:jennydcc/modelotest.git</url>
+    <connection>scm:git:https://github.com/jennydcc/modelotest.git</connection>
+    <developerConnection>scm:git:https://${username}:${password}@github.com/jennydcc/modelotest.git</developerConnection>
+    <url>scm:git:https://github.com/jennydcc/modelotest.git</url>
     <tag>HEAD</tag>
   </scm>
   
