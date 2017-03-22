@@ -21,7 +21,14 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+			<groupId>javax</groupId>
+			<artifactId>javaee-web-api</artifactId>
+			<version>7.0</version>
+    </dependency>
   </dependencies>
+  
   
    <scm>
     <connection>scm:git:https://github.com/jennydcc/modelotest.git</connection>
