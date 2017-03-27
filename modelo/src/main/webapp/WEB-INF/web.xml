@@ -6,10 +6,10 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
       <servlet-name>SaludoServlet</servlet-name>
-      <servlet-class>net.rc.presentacion.SaludoServlet</servlet-class>
+      <servlet-class>pe.grupobbva.modelo.modelo.SaludoServlet</servlet-class>
    </servlet>
    <servlet-mapping>
       <servlet-name>SaludoServlet</servlet-name>
-      <url-pattern>/sayHello</url-pattern>
+      <url-pattern>/sayHello2</url-pattern>
    </servlet-mapping>
 </web-app>
